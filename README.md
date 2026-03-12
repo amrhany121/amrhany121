@@ -26,10 +26,8 @@ I love building web applications and learning new technologies.
 ### ⚙️ Backend
 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square\&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-black?style=flat-square\&logo=dotnet)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=flat-square\&logo=dotnet)
 ![Node.js](https://img.shields.io/badge/NodeJS-black?style=flat-square\&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square\&logo=php)
 
 ### 🗄 Database
 
