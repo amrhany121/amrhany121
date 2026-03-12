@@ -75,7 +75,7 @@ I love building web applications and learning new technologies.
 
 * GitHub: https://github.com/amrhany121
 * LinkedIn: http://linkedin.com/in/amr-hany-61a927313
-* Portfolio: (add your portfolio)
+
 
 ---
 
