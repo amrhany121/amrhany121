@@ -7,17 +7,17 @@ I love building web applications and learning new technologies.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 Computer Science Student
-* 💻 Full Stack Web Developer (.NET Stack)
-* 🎨 UI / UX Designer
-* 🌱 Currently learning advanced backend development & system design
-* 🎯 Goal: Become a professional Software Engineer
+*  Full Stack Web Developer (.NET Stack)
+*  UI / UX Designer
+*  Currently learning advanced backend development & system design
+*  Goal: Become a professional Software Engineer
 
 ---
 
-# 💻 Programming Languages
+#  Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square\&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square\&logo=csharp)
@@ -26,7 +26,7 @@ I love building web applications and learning new technologies.
 
 ---
 
-# 🌐 Frontend Development
+#  Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square\&logo=css3)
@@ -36,7 +36,7 @@ I love building web applications and learning new technologies.
 
 ---
 
-# ⚙️ Backend Development
+#  Backend Development
 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square\&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square\&logo=javascript)
@@ -53,7 +53,7 @@ I love building web applications and learning new technologies.
 
 ---
 
-# 🛠 Tools
+#  Tools
 
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square\&logo=github)
@@ -63,7 +63,7 @@ I love building web applications and learning new technologies.
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&count_private=true&theme=gruvbox" />
 
@@ -71,7 +71,7 @@ I love building web applications and learning new technologies.
 
 ---
 
-# 🌍 Connect With Me
+#  Connect With Me
 
 * GitHub: https://github.com/amrhany121
 * LinkedIn: http://linkedin.com/in/amr-hany-61a927313
