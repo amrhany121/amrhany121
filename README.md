@@ -46,7 +46,7 @@ I love building web applications and learning new technologies.
 
 ---
 
-# 🗄 Database
+#  Database
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=flat-square\&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square\&logo=mysql)
