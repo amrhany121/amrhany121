@@ -1,92 +1,97 @@
-# Hi there 👋
+# Hi, I'm Amr Hany 👋
 
-I'm **Amr Hany**, a Computer Science student and **Backend Developer (.NET)** from Egypt 🇪🇬.
+### Backend Developer | C# | ASP.NET Core | SQL Server
 
-I enjoy building reliable backend systems, designing databases, developing RESTful APIs, and continuously improving my software engineering skills.
+I'm a Computer Science student and **Backend Developer specializing in the .NET ecosystem**.
+I build backend applications and RESTful APIs with a focus on clean code, database design, security, and maintainable software architecture.
+
+I'm continuously improving my skills in **backend engineering, system design, and scalable application development**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 Computer Science Student
-* 💻 **Backend Developer — .NET**
-* ⚙️ Specialized in **C# & ASP.NET Core**
-* 🗄️ Interested in **Database Design & Optimization**
-* 🔐 Learning **Authentication, Authorization & Secure API Development**
-* 🏗️ Currently improving my knowledge of **Software Architecture & System Design**
+* 💻 Backend Developer — **.NET**
+* ⚙️ Building applications with **C# & ASP.NET Core**
+* 🗄️ Working with **SQL Server & Entity Framework Core**
+* 🔐 Interested in **Authentication, Authorization & API Security**
+* 🏗️ Learning **Clean Architecture & System Design**
+* 📚 Improving my knowledge of **Data Structures, Algorithms & Software Engineering**
 * 🎯 Goal: Become a professional **Backend Software Engineer**
 
 ---
 
-## 💻 Programming Languages
+## Tech Stack
+
+### Backend
 
 ![C#](https://img.shields.io/badge/C%23-181717?style=flat-square\&logo=csharp\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-181717?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-181717?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square\&logo=javascript\&logoColor=white)
-
----
-
-## ⚙️ Backend Development
-
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-181717?style=flat-square\&logo=dotnet\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-181717?style=flat-square\&logo=csharp\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-181717?style=flat-square\&logo=dotnet\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-181717?style=flat-square\&logo=postman\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-181717?style=flat-square\&logo=postman\&logoColor=white)
 
----
-
-## 🗄️ Databases
+### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-181717?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square\&logo=mongodb\&logoColor=white)
 
+### Programming
+
+![C#](https://img.shields.io/badge/C%23-181717?style=flat-square\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-181717?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square\&logo=python\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-181717?style=flat-square\&logo=visualstudio\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square\&logo=postman\&logoColor=white)
+
 ---
 
-## 🔧 Backend Concepts
+## Backend Skills
 
 * RESTful API Development
+* ASP.NET Core
 * Entity Framework Core
-* Database Design
 * LINQ
+* SQL & Relational Database Design
+* CRUD Operations
 * Authentication & Authorization
 * JWT
-* CRUD Operations
-* API Integration
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
+* API Security
+* OOP & SOLID Principles
+* Database Migrations
+* Git & GitHub
 * Software Architecture
 * System Design
 
 ---
 
-## 🛠️ Tools
+## Featured Projects
 
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-181717?style=flat-square\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-181717?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square\&logo=postman\&logoColor=white)
+I use GitHub to document my learning journey and showcase practical backend projects built with .NET and related technologies.
+
+> 🚧 More backend projects and improvements are coming soon.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=gruvbox&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany121&layout=compact&theme=gruvbox&hide_border=true" />
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/amr-hany-61a927313
 * 🐙 GitHub: https://github.com/amrhany121
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=amrhany121\&color=blue\&style=flat-square)
-
+![Profile Views](https://komarev.com/ghpvc/?username=amrhany121\&style=flat-square)
