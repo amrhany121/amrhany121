@@ -79,13 +79,12 @@ I use GitHub to document my learning journey and showcase practical backend proj
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany121&layout=compact&theme=gruvbox&hide_border=true" />
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany121&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
 ## Connect
 
