@@ -1,28 +1,30 @@
 # Hi, I'm Amr Hany 👋
 
-### Backend Developer | C# | ASP.NET Core | SQL Server
+### Backend Developer | .NET | C# | ASP.NET Core
 
-I'm a Computer Science student and **Backend Developer specializing in the .NET ecosystem**.
-I build backend applications and RESTful APIs with a focus on clean code, database design, security, and maintainable software architecture.
+I'm a **Computer Science student and Backend Developer** focused on building reliable and maintainable backend applications using the **.NET ecosystem**.
 
-I'm continuously improving my skills in **backend engineering, system design, and scalable application development**.
+I enjoy designing APIs, working with databases, implementing business logic, and writing clean, structured code.
+
+Currently, I'm focused on strengthening my skills in **backend development, software architecture, and system design**.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 * 🎓 Computer Science Student
 * 💻 Backend Developer — **.NET**
-* ⚙️ Building applications with **C# & ASP.NET Core**
+* ⚡ Building backend applications with **C# & ASP.NET Core**
 * 🗄️ Working with **SQL Server & Entity Framework Core**
 * 🔐 Interested in **Authentication, Authorization & API Security**
-* 🏗️ Learning **Clean Architecture & System Design**
-* 📚 Improving my knowledge of **Data Structures, Algorithms & Software Engineering**
-* 🎯 Goal: Become a professional **Backend Software Engineer**
+* 🧩 Practicing **OOP, SOLID & Clean Code**
+* 🏗️ Learning **Software Architecture & System Design**
+* 📈 Continuously improving my backend engineering skills
+* 🎯 Working toward becoming a professional **Backend Software Engineer**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 
@@ -31,7 +33,7 @@ I'm continuously improving my skills in **backend engineering, system design, an
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-181717?style=flat-square\&logo=dotnet\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-181717?style=flat-square\&logo=postman\&logoColor=white)
 
-### Databases
+### Database
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-181717?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square\&logo=mysql\&logoColor=white)
@@ -52,13 +54,13 @@ I'm continuously improving my skills in **backend engineering, system design, an
 
 ---
 
-## Backend Skills
+## 🔧 Backend Knowledge
 
 * RESTful API Development
 * ASP.NET Core
 * Entity Framework Core
 * LINQ
-* SQL & Relational Database Design
+* SQL & Database Design
 * CRUD Operations
 * Authentication & Authorization
 * JWT
@@ -66,30 +68,45 @@ I'm continuously improving my skills in **backend engineering, system design, an
 * OOP & SOLID Principles
 * Database Migrations
 * Git & GitHub
+* Clean Code
 * Software Architecture
 * System Design
 
 ---
 
-## Featured Projects
+## 📌 What I Build
 
-I use GitHub to document my learning journey and showcase practical backend projects built with .NET and related technologies.
+I focus on building backend systems that include:
 
-> 🚧 More backend projects and improvements are coming soon.
+* 🔹 RESTful APIs
+* 🔹 Database-driven applications
+* 🔹 Authentication & Authorization
+* 🔹 Business Logic & Data Access
+* 🔹 CRUD-based systems
+* 🔹 Secure API integrations
+* 🔹 Maintainable backend architectures
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Amr Hany's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany121&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany121&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
-## Connect
+---
 
-* 💼 LinkedIn: https://linkedin.com/in/amr-hany-61a927313
-* 🐙 GitHub: https://github.com/amrhany121
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/amrhany121">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/amr-hany-61a927313">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
