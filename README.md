@@ -39,12 +39,6 @@ Currently, I'm focused on strengthening my skills in **backend development, soft
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square\&logo=mongodb\&logoColor=white)
 
-### Programming
-
-![C#](https://img.shields.io/badge/C%23-181717?style=flat-square\&logo=csharp\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-181717?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-181717?style=flat-square\&logo=python\&logoColor=white)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square\&logo=git\&logoColor=white)
@@ -52,7 +46,6 @@ Currently, I'm focused on strengthening my skills in **backend development, soft
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-181717?style=flat-square\&logo=visualstudio\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square\&logo=postman\&logoColor=white)
 
----
 
 ## 🔧 Backend Knowledge
 
