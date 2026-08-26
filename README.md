@@ -87,12 +87,10 @@ I focus on building backend systems that include:
 * 🔹 Maintainable backend architectures
 
 ---
-
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrhany121&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany121&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrhany121&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
